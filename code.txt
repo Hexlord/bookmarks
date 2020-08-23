@@ -1,0 +1,8 @@
+- literally gold
+https://github.com/Hexlord/outlaws-core/blob/master/Nav.cpp
+
+- memory
+https://metricpanda.com/rival-fortress-update-16-custom-memory-allocators/index.html
+
+- fx
+http://emihoess.com/?p=10
