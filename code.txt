@@ -1,8 +1,17 @@
 - literally gold
 https://github.com/Hexlord/outlaws-core/blob/master/Nav.cpp
+https://www.gamedevs.org/
 
 - memory
 https://metricpanda.com/rival-fortress-update-16-custom-memory-allocators/index.html
 
 - fx
 http://emihoess.com/?p=10
+
+- continuous world
+https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf
+
+- composition > inheritance, DOD
+http://gamearchitect.net/2008/06/01/an-anatomy-of-despair-aggregation-over-inheritance/
+https://www.gamedevs.org/uploads/data-driven-game-object-system.pdf
+https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf
