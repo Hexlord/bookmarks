@@ -15,3 +15,13 @@ https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf
 http://gamearchitect.net/2008/06/01/an-anatomy-of-despair-aggregation-over-inheritance/
 https://www.gamedevs.org/uploads/data-driven-game-object-system.pdf
 https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf
+
+- physics engines
+https://github.com/bepu/bepuphysics2 - crazy fast, C#
+
+- networking
+https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and
+https://habr.com/ru/company/pixonic/blog/485150/
+https://habr.com/ru/company/pixonic/blog/415959/
+https://habr.com/ru/company/pixonic/blog/420019/
+https://www.gamasutra.com/view/feature/173977/scaling_a_physics_engine_to_.php
