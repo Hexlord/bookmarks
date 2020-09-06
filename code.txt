@@ -18,8 +18,10 @@ https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf
 
 - physics engines
 https://github.com/bepu/bepuphysics2 - crazy fast, C#
+https://sites.google.com/site/coderadventures/box2d/chipmunkphysicsandbox2dcomparison
 
 - networking
+https://gafferongames.com/post/snapshot_compression/
 https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and
 https://habr.com/ru/company/pixonic/blog/485150/
 https://habr.com/ru/company/pixonic/blog/415959/
