@@ -2,8 +2,17 @@
 https://github.com/Hexlord/outlaws-core/blob/master/Nav.cpp
 https://www.gamedevs.org/
 
+- pathfinding
+http://graphics.ucmerced.edu/papers/10-sca-tripath.pdf
+http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Kallmann14.pdf
+https://www.aaai.org/Papers/AAAI/2006/AAAI06-148.pdf 
+
+- reflection
+https://www.gdcvault.com/play/1015586/ clang (serialization & replication codegen, reflection generation for runtime)
+
 - memory
 https://metricpanda.com/rival-fortress-update-16-custom-memory-allocators/index.html
+read up Game Engine Architecture
 
 - fx
 http://emihoess.com/?p=10
@@ -19,6 +28,7 @@ https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf
 - physics engines
 https://github.com/bepu/bepuphysics2 - crazy fast, C#
 https://sites.google.com/site/coderadventures/box2d/chipmunkphysicsandbox2dcomparison
+file:///C:/Users/sashaboss/Pictures/Migdalskiy_Sergiy_Physics_for_Game_02.pdf
 
 - networking
 https://gafferongames.com/post/snapshot_compression/
@@ -27,3 +37,20 @@ https://habr.com/ru/company/pixonic/blog/485150/
 https://habr.com/ru/company/pixonic/blog/415959/
 https://habr.com/ru/company/pixonic/blog/420019/
 https://www.gamasutra.com/view/feature/173977/scaling_a_physics_engine_to_.php
+
+- MP cheat protection:
+https://stackoverflow.com/a/960697
+
+- Metaballs:
+https://en.wikipedia.org/wiki/Metaballs
+http://emihoess.com/?p=10
+https://www.youtube.com/watch?v=V1F9twcahvU
+
+- Audio:
+https://www.youtube.com/watch?v=BrUQdd96qzk
+
+- Camera:
+https://www.youtube.com/watch?v=C7307qRmlMI
+
+- Level Design:
+https://www.youtube.com/watch?v=CkHGuHd9BgU
