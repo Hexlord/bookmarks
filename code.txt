@@ -1,6 +1,7 @@
 - literally gold
 https://github.com/Hexlord/outlaws-core/blob/master/Nav.cpp
 https://www.gamedevs.org/
+http://www.1024cores.net/
 
 - pathfinding
 http://graphics.ucmerced.edu/papers/10-sca-tripath.pdf
@@ -25,6 +26,11 @@ http://gamearchitect.net/2008/06/01/an-anatomy-of-despair-aggregation-over-inher
 https://www.gamedevs.org/uploads/data-driven-game-object-system.pdf
 https://www.gamedevs.org/uploads/pitfalls-of-object-oriented-programming.pdf
 
+- Multithreading
+https://graphitemaster.github.io/fibers/
+https://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine
+https://github.com/Hexlord/Engine
+
 - physics engines
 https://github.com/bepu/bepuphysics2 - crazy fast, C#
 https://sites.google.com/site/coderadventures/box2d/chipmunkphysicsandbox2dcomparison
@@ -37,6 +43,11 @@ https://habr.com/ru/company/pixonic/blog/485150/
 https://habr.com/ru/company/pixonic/blog/415959/
 https://habr.com/ru/company/pixonic/blog/420019/
 https://www.gamasutra.com/view/feature/173977/scaling_a_physics_engine_to_.php
+https://awesomeopensource.com/project/MFatihMAR/Game-Networking-Resources
+
+- rendering
+https://www.bilibili.com/video/av10595011/
+https://www.gdcvault.com/play/1024612/FrameGraph-Extensible-Rendering-Architecture-in
 
 - MP cheat protection:
 https://stackoverflow.com/a/960697
@@ -54,3 +65,7 @@ https://www.youtube.com/watch?v=C7307qRmlMI
 
 - Level Design:
 https://www.youtube.com/watch?v=CkHGuHd9BgU
+
+- ecs:
+https://github.com/SanderMertens/flecs/issues/3
+https://github.com/abeimler/ecs_benchmark
