@@ -1,3 +1,6 @@
+-clang-format
+https://zed0.co.uk/clang-format-configurator/
+
 - literally gold
 https://github.com/Hexlord/outlaws-core/blob/master/Nav.cpp
 https://www.gamedevs.org/
@@ -14,9 +17,6 @@ https://www.gdcvault.com/play/1015586/ clang (serialization & replication codege
 - memory
 https://metricpanda.com/rival-fortress-update-16-custom-memory-allocators/index.html
 read up Game Engine Architecture
-
-- fx
-http://emihoess.com/?p=10
 
 - continuous world
 https://www.gamedevs.org/uploads/the-continuous-world-of-dungeon-siege.pdf
@@ -48,6 +48,7 @@ https://awesomeopensource.com/project/MFatihMAR/Game-Networking-Resources
 - rendering
 https://www.bilibili.com/video/av10595011/
 https://www.gdcvault.com/play/1024612/FrameGraph-Extensible-Rendering-Architecture-in
+http://alextardif.com/Antialiasing.html
 
 - MP cheat protection:
 https://stackoverflow.com/a/960697
